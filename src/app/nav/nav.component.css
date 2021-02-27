@@ -1,0 +1,12 @@
+.dropdown-toggle, .dropdown-item {
+  cursor : pointer;
+}
+
+.color-style {
+  background-color: #376E6F;
+}
+
+.icon-style {
+  height:44px;
+  width: 150px;
+}

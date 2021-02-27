@@ -1,0 +1,10 @@
+/* * {
+  font-family: Trebuchet 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif !important;
+} */
+.container-class {
+  height: 1000px;
+  width:100%;
+  background-image: url('../assets/wallpaper3.jpg');
+  background-size: contain;
+  position: absolute;
+}

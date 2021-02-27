@@ -1,0 +1,22 @@
+.container-class {
+    width:50%;
+}
+
+.background-style {
+    background-color: whitesmoke;
+    margin-left:14%;
+    height:50%;
+}
+
+.padding-style {
+    padding-left:12%;
+    padding-right:12%;
+}
+
+.font-style {
+    color: #376E6F;
+}
+
+.margin-style {
+    margin-top: 5%;
+}
